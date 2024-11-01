@@ -1,0 +1,18 @@
+.woocpw-product-ul{
+	list-style: none;
+}
+.woocpw-product-ul .woocpw-thumbnail{
+	display: inline-block;
+}
+.woocpw-product-ul .woocpw-thumbnail img{
+	width: 75px;
+	height: 75px;
+}
+.woocpw-product-ul div.half_title{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 10px;
+	width: calc(100% - 90px);
+}
+.woocpw-product-ul li{margin-top: 10px; border-bottom: 1px solid #ccc; padding-bottom: 10px;}
+.woocpw-product-ul span.post-date{display: block;}
